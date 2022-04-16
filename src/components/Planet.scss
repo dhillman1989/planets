@@ -1,0 +1,26 @@
+.planet-image{
+  height:600px;
+  min-height:600px;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  position:relative;
+}
+
+.geology{
+  position:absolute;
+  top: 340px;
+  left: 50%;
+  transform: translatex(-50%);
+  height:200px;
+}
+
+h1{
+  margin-bottom:1rem;
+}
+
+p{
+  display:block;
+  margin-bottom:1rem;
+}
+
